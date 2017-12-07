@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1852db5-2db8-4fca-ba06-afe854198898" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/script/tryclj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/tryclj/routings_test.clj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.clj" afterPath="$PROJECT_DIR$/project.clj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/index.html" afterPath="$PROJECT_DIR$/resources/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/script/tryclj.js" afterPath="$PROJECT_DIR$/resources/public/script/tryclj.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tryclj/repl.clj" afterPath="$PROJECT_DIR$/src/tryclj/repl.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tryclj/routings.clj" afterPath="$PROJECT_DIR$/src/tryclj/routings.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tryclj.iml" afterPath="$PROJECT_DIR$/tryclj.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,16 +24,16 @@
     <periodicRefresh>false</periodicRefresh>
     <languageLevel>1.8 - lambda functions, virtual extension methods.</languageLevel>
     <instrumentLambda class="com.atlassian.clover.cfg.instr.java.LambdaInstrumentation">NONE</instrumentLambda>
-    <autoScrollFromSource>false</autoScrollFromSource>
     <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
+    <autoScrollFromSource>false</autoScrollFromSource>
     <coveredHighlight>-16756736</coveredHighlight>
     <outOfDateStripe>-256</outOfDateStripe>
     <excludes null="true" />
     <includes null="true" />
     <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
     <autoViewInCloudReport>true</autoViewInCloudReport>
-    <flushPolicy>0</flushPolicy>
     <filteredHighlight>-11513776</filteredHighlight>
+    <flushPolicy>0</flushPolicy>
     <outOfDateHighlight>-16777201</outOfDateHighlight>
     <showInline>true</showInline>
     <dumpInstrumentedSources>false</dumpInstrumentedSources>
@@ -79,14 +73,24 @@
     <showSummaryInToolwindow>true</showSummaryInToolwindow>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
+    <splitter split-orientation="vertical" split-proportion="0.30810234">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="server.clj" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/tryclj/server.clj">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="200">
-                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <state relative-caret-position="80">
+                  <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/public/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="140">
+                  <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
                   <folding />
                 </state>
               </provider>
@@ -95,8 +99,8 @@
           <file leaf-file-name="repl.clj" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/tryclj/repl.clj">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-17">
-                  <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+                <state relative-caret-position="100">
+                  <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
                   <folding />
                 </state>
               </provider>
@@ -109,40 +113,20 @@
           <file leaf-file-name="tryclj.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources/public/script/tryclj.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-159">
-                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                <state relative-caret-position="340">
+                  <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
                   <folding>
-                    <marker date="1512660393828" expanded="true" signature="956:960" ph="&amp;gt;" />
+                    <marker date="1512666990998" expanded="true" signature="994:998" ph="&amp;gt;" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Procfile">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="routings.clj" pinned="false" current-in-tab="false">
+          <file leaf-file-name="routings.clj" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/tryclj/routings.clj">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="244">
-                  <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="project.clj" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/project.clj">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="140">
-                  <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+                <state relative-caret-position="80">
+                  <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -191,12 +175,12 @@
         <option value="$USER_HOME$/AppData/Local/Temp/Clojars Project.url" />
         <option value="$PROJECT_DIR$/resources/public/css/main.css" />
         <option value="$PROJECT_DIR$/project.clj" />
-        <option value="$PROJECT_DIR$/resources/public/index.html" />
         <option value="$PROJECT_DIR$/test/tryclj/routings_test.clj" />
-        <option value="$PROJECT_DIR$/src/tryclj/repl.clj" />
         <option value="$PROJECT_DIR$/src/tryclj/routings.clj" />
-        <option value="$PROJECT_DIR$/resources/public/script/tryclj.js" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/resources/public/script/tryclj.js" />
+        <option value="$PROJECT_DIR$/resources/public/index.html" />
+        <option value="$PROJECT_DIR$/src/tryclj/repl.clj" />
       </list>
     </option>
   </component>
@@ -206,11 +190,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2880" />
+    <option name="width" value="960" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -227,9 +210,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,11 +220,47 @@
               <item name="tryclj" type="b2602c69:ProjectViewProjectNode" />
               <item name="tryclj" type="bbb3b172:PsiDirectoryNodeWrapper" />
             </path>
+            <path>
+              <item name="tryclj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tryclj" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="resources" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="tryclj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tryclj" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="resources" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="public" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="tryclj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tryclj" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="resources" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="public" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="css" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="tryclj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tryclj" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="resources" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="public" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="script" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="tryclj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tryclj" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="tryclj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tryclj" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="tryclj" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,7 +280,7 @@
       <recent name="C:\practice\code\tryclj" />
     </key>
   </component>
-  <component name="ReplState" timestamp="1512660463409">{:repl-history {:ide [], :local [{:command &quot;(clojure.edn/read-string \&quot;(+ 1 3)\&quot;)&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(clojure.edn/read-string \&quot;(+ 1  )\&quot;)&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(clojure.edn/read-string \&quot;(+ 1 \\\&quot;a)\&quot;)&quot;, :offset 37, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;(+ 1 \\\&quot;a)\&quot;) (catch EOFException e (.getMessage e)))&quot;, :offset 82, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;(+ 1 \\\&quot;a)\&quot;) (catch Exception e (.getMessage e)))&quot;, :offset 79, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;[1 2 3]\&quot;) (catch Exception e (str e)))&quot;, :offset 69, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;'(+ 1 \\\&quot;a)\&quot;) (catch Exception e (str e)))&quot;, :offset 72, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;(+ 1 \\\&quot;a)\&quot;) (catch Exception e (str e)))&quot;, :offset 71, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;'(+ 1 \\\&quot;a\\\&quot;)\&quot;) (catch Exception e (str e)))&quot;, :offset 74, :ns &quot;user&quot;} {:command &quot;(try (eval \&quot;'(+ 1 \\\&quot;a\\\&quot;)\&quot;) (catch Exception e (str e)))&quot;, :offset 55, :ns &quot;user&quot;} {:command &quot;(try (eval \&quot;(+ 1 \\\&quot;a\\\&quot;)\&quot;) (catch Exception e (str e)))&quot;, :offset 54, :ns &quot;user&quot;} {:command &quot;(eval \&quot;(+ 1 3)\&quot;)&quot;, :offset 16, :ns &quot;user&quot;} {:command &quot;(let [value \&quot;(+ 1 3)\&quot;]\n  (eval value))&quot;, :offset 38, :ns &quot;user&quot;} {:command &quot;(eval (read-string \&quot;(+ 1 3)\&quot;))&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;(eval (read-string \&quot;'(+ 1 3)\&quot;))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(eval (read-string \&quot;(println 1 3)\&quot;))&quot;, :offset 36, :ns &quot;user&quot;} {:command &quot;(tryclj.repl/run \&quot;(println 1 3)\&quot;)&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(println (tryclj.repl/run \&quot;(println 1 3)\&quot;))&quot;, :offset 43, :ns &quot;user&quot;} {:command &quot;(println (tryclj.repl/run \&quot;(do (println 1 3) (println 2 \\\&quot;4) \\\&quot;hi\\\&quot;)\&quot;))&quot;, :offset 71, :ns &quot;user&quot;} {:command &quot;(println (tryclj.repl/run \&quot;(do (println 1 3) (println 2 4) \\\&quot;hi\\\&quot;)\&quot;))&quot;, :offset 69, :ns &quot;user&quot;} {:command &quot;(tryclj.repl/run \&quot;(do (println 1 3) (println 2 4) \\\&quot;hi\\\&quot;)\&quot;)&quot;, :offset 59, :ns &quot;user&quot;} {:command &quot;(tryclj.server/-main)&quot;, :offset 21, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1512668467094">{:repl-history {:ide [], :local [{:command &quot;(clojure.edn/read-string \&quot;(+ 1 3)\&quot;)&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(clojure.edn/read-string \&quot;(+ 1  )\&quot;)&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(clojure.edn/read-string \&quot;(+ 1 \\\&quot;a)\&quot;)&quot;, :offset 37, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;(+ 1 \\\&quot;a)\&quot;) (catch EOFException e (.getMessage e)))&quot;, :offset 82, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;(+ 1 \\\&quot;a)\&quot;) (catch Exception e (.getMessage e)))&quot;, :offset 79, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;[1 2 3]\&quot;) (catch Exception e (str e)))&quot;, :offset 69, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;'(+ 1 \\\&quot;a)\&quot;) (catch Exception e (str e)))&quot;, :offset 72, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;(+ 1 \\\&quot;a)\&quot;) (catch Exception e (str e)))&quot;, :offset 71, :ns &quot;user&quot;} {:command &quot;(try (clojure.edn/read-string \&quot;'(+ 1 \\\&quot;a\\\&quot;)\&quot;) (catch Exception e (str e)))&quot;, :offset 74, :ns &quot;user&quot;} {:command &quot;(try (eval \&quot;'(+ 1 \\\&quot;a\\\&quot;)\&quot;) (catch Exception e (str e)))&quot;, :offset 55, :ns &quot;user&quot;} {:command &quot;(try (eval \&quot;(+ 1 \\\&quot;a\\\&quot;)\&quot;) (catch Exception e (str e)))&quot;, :offset 54, :ns &quot;user&quot;} {:command &quot;(eval \&quot;(+ 1 3)\&quot;)&quot;, :offset 16, :ns &quot;user&quot;} {:command &quot;(let [value \&quot;(+ 1 3)\&quot;]\n  (eval value))&quot;, :offset 38, :ns &quot;user&quot;} {:command &quot;(eval (read-string \&quot;(+ 1 3)\&quot;))&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;(eval (read-string \&quot;'(+ 1 3)\&quot;))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(eval (read-string \&quot;(println 1 3)\&quot;))&quot;, :offset 36, :ns &quot;user&quot;} {:command &quot;(tryclj.repl/run \&quot;(println 1 3)\&quot;)&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(println (tryclj.repl/run \&quot;(println 1 3)\&quot;))&quot;, :offset 43, :ns &quot;user&quot;} {:command &quot;(println (tryclj.repl/run \&quot;(do (println 1 3) (println 2 \\\&quot;4) \\\&quot;hi\\\&quot;)\&quot;))&quot;, :offset 71, :ns &quot;user&quot;} {:command &quot;(println (tryclj.repl/run \&quot;(do (println 1 3) (println 2 4) \\\&quot;hi\\\&quot;)\&quot;))&quot;, :offset 69, :ns &quot;user&quot;} {:command &quot;(tryclj.repl/run \&quot;(do (println 1 3) (println 2 4) \\\&quot;hi\\\&quot;)\&quot;)&quot;, :offset 59, :ns &quot;user&quot;} {:command &quot;(tryclj.server/-main)&quot;, :offset 21, :ns &quot;user&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -378,20 +397,20 @@
       <workItem from="1512576407006" duration="5000" />
       <workItem from="1512577241949" duration="10341000" />
       <workItem from="1512659841423" duration="616000" />
+      <workItem from="1512666916648" duration="1547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13712000" />
+    <option name="totallyTimeSpent" value="15259000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="2880" y="0" width="960" height="1080" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4152452" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="REPL" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41444445" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CxPath" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -406,11 +425,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="CxGrid" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12313433" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2588889" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -435,6 +454,56 @@
     <entry file="file://$PROJECT_DIR$/src/tryclj/server.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tryclj/repl.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/public/script/tryclj.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1512666990998" expanded="true" signature="994:998" ph="&amp;gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tryclj/routings.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tryclj/server.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
@@ -444,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1640">
           <caret line="82" column="6" lean-forward="false" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -452,7 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -468,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +543,7 @@
         <state relative-caret-position="140">
           <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding>
-            <marker date="1512660393828" expanded="true" signature="956:960" ph="&amp;gt;" />
+            <marker date="1512666990998" expanded="true" signature="994:998" ph="&amp;gt;" />
           </folding>
         </state>
       </provider>
@@ -486,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,13 +651,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tryclj/core.clj" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Clojars Project.url">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Clojars Project.url" />
     <entry file="jar://$MAVEN_REPOSITORY$/ring/ring-mock/0.3.2/ring-mock-0.3.2.jar!/ring/mock/request.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -600,19 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="82" column="6" lean-forward="false" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,15 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tryclj/repl.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,33 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tryclj/server.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tryclj/routings.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/public/script/tryclj.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-159">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <marker date="1512660393828" expanded="true" signature="956:960" ph="&amp;gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,7 +698,49 @@
     <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/public/script/tryclj.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <marker date="1512666990998" expanded="true" signature="994:998" ph="&amp;gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tryclj/repl.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tryclj/routings.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tryclj/server.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           <folding />
         </state>
       </provider>

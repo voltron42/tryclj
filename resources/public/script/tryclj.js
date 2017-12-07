@@ -2,6 +2,7 @@ function tryclj() {
     var out = document.getElementById("out");
     var input = document.getElementById("in").value;
     out.innerHTML = out.innerHTML + "<span class=\"input\">" + input + "</span>";
+    out.scrollTop = out.scrollHeight;
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
@@ -20,6 +21,7 @@ function tryclj() {
                 output += "<span class=\"result\">=&gt; " + result.result + "</span>"
             }
             out.innerHTML = out.innerHTML + output;
+            out.scrollTop = out.scrollHeight;
         }
     };
     xhttp.open("post", "repl", true);
