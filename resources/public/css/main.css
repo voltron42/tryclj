@@ -1,0 +1,26 @@
+#out {
+    width: 400px;
+    height: 400px;
+    overflow-y: scroll;
+    border: 2px solid black;
+}
+
+span {
+    display: block;
+}
+
+.input {
+    font-style: italic;
+}
+
+.result {
+    color: blue;
+}
+
+.error {
+    color: red;
+}
+
+.console {
+    color: green;
+}
