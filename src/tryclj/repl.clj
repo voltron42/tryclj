@@ -20,6 +20,6 @@
   (try
     (let [expression (read-string code)
           {:keys [console result] :as output} (with-out-str-data-map (eval expression))]
-      (assoc output :console (clojure.string/split console #"\r\n") :result (pr-str result)))
+      (assoc output :console (clojure.string/split (clojure.string/replace console #"\r" "") #"\n") :result (pr-str result)))
     (catch Throwable e
       {:error (map-error e)})))
